@@ -2,9 +2,9 @@
 print(type(nil))
 
 --除了fasle == fasle 其他都等于true
+print("------ bool ------")
 print(type(true))
-print(nil == true , 0 == true)
-
+print(nil == false , 0 == false)
 -- lua是统一使用双精度浮点数处理所有的数字
 print(type(1))
 
