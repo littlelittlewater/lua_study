@@ -8,4 +8,4 @@ print("die") print("die") print("die")
 print("die") ; print("die")
 
 --加载其他块
-dofile("helloWorld.lua")
+dofile("_1_helloWorld.lua")
